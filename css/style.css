@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.main{
+    width: 100%;
+    float: left;
+    background: url(../img/bg.jpg);
+    padding: 65px 9px;
+}
+.main-left{
+    width: 60%;
+    float: left;
+    padding: 36px 0px;
+}
+.main-left h2{
+    font-weight: bold;
+    margin: 0px auto;
+    color: white;
+    font-size: 37px;
+    text-transform: uppercase;
+}
+.main-left h3{
+    margin: 0px auto;
+    color: white;
+    font-size: 37px;
+    text-transform: uppercase;
+}
+.main-left p{
+    color: white;
+    font-size: 20px;
+    padding: 10px 0px;
+}
+.main-left ul {
+    list-style: none;
+}
+.main-left ul li{
+    padding: 2px;
+}
+.main-left ul li a{
+    padding: 64px 4px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.btn{
+    padding: 5px 23px;
+    margin: 10px 3px;
+    border-radius: 17px;
+    color: #f3eded;
+    background: #7171a5;
+}
+.main-register{
+    width: 36%;
+    float: left;
+    background: #2a475a;
+    margin-top: 43px;
+    border-radius: 5px;
+}
+.main-register h2{
+    font-size: 43px;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    text-transform: uppercase;
+}
+.main-register p{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+.form-control{
+    width: 90%;
+    float: left;
+    margin: 5px 10px;
+    padding: 15px 10px;
+}
+.bt{
+    padding: 8px;
+    margin: 7px;
+    width: 95%;
+    color: white;
+    background: #4e4ea2;
+    border-radius: 8px;
+    font-size: 25px;
+}
